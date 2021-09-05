@@ -1,0 +1,230 @@
+body {
+    font-family: "Montserrat", serif;
+  }
+  
+  
+  @media screen and (max-width: 991px) {
+    .active_navbar {
+      color: #07cb79;
+      border-left: 5px solid #157eff;
+    }
+  }
+  
+  @media screen and (min-width: 992px) {
+    .active_navbar {
+      color: #07cb79;
+      border-bottom: 5px solid #157eff;
+    }
+  }
+  
+  .carousel-control-prev {
+    left: 6%;
+  }
+  
+  .carousel-control-next {
+    right: 6%
+  }
+  
+  .carousel-indicators li {
+    width: 15px;
+    height: 15px;
+  }
+  
+  
+  
+  .block {
+    display: block
+  }
+  
+  .navbar_brand {
+    font-size: 18px !important;
+    font-weight: 800;
+    color: #157eff !important;
+    margin-right: 10.94% !important;
+  }
+  
+  .nav-item a {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    color: black !important;
+  }
+  
+  .nav-item {
+    margin-right: 28px;
+  }
+  
+  .navbar-nav_button {
+    color: black;
+    text-decoration: none
+  }
+  
+  .banner {
+    position: relative;
+    background-repeat: no-repeat;
+  }
+  
+  .banner_container {
+    padding-top: 8.07%;
+  }
+  
+  .banner_container_title {
+    font-size: 50px;
+    font-weight: 700;
+    color: white;
+  }
+  
+  .banner_container_text {
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    line-height: 28px;
+  }
+  
+  .banner_textButton {
+    padding-bottom: 8.07%;
+    display: flex;
+    align-items: center;
+  }
+  
+  .banner_textButton p {
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    display: contents;
+    margin-right: 2%;
+  }
+  
+  .banner_text_Button {
+    color: #5ea6ff;
+    background-color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 2%;
+    cursor: pointer;
+  }
+  
+  .easyAndQuick {
+    padding-top: 6.25%;
+    padding-bottom: 6.25%;
+    background-color: #f4f5f8;
+  }
+  
+  .easyAndQuick_textLeft {
+    color: black;
+    font-size: 48px;
+    font-weight: 700;
+  }
+  
+  .easyAndQuick_textRight {
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+  }
+  
+  .fiveTitle {
+    text-align: center;
+    padding-top: 6.25%;
+    padding-bottom: 6.25%
+  }
+  
+  .font40px {
+    font-size: 40px;
+    font-weight: 400;
+  }
+  
+  .font18px {
+    font-size: 18px;
+    font-weight: 400;
+  }
+  
+  .font16px {
+    font-size: 16px;
+    font-weight: 400;
+  }
+  
+  .font24px {
+    font-size: 24px;
+    font-weight: 400;
+  }
+  
+  .divCarousel {
+    text-align: center;
+    padding-top: 6.25%;
+    padding-bottom: 6.25%;
+    background-color: #f4f5f8;
+  }
+  
+  .divCarousel p {
+    font-size: 40px;
+    font-weight: 400;
+    margin-bottom: 80px;
+  }
+  
+  .carousel-indicators_li {
+    width: 15px !important;
+    height: 15px !important;
+    border-radius: 50%;
+    background-color: gray !important;
+  }
+  
+  .divCarousel_button {
+    color: white;
+    background-color: #157eff;
+    border-radius: 30px;
+    height: 55px;
+    width: 240px;
+    border-color: white;
+  }
+  
+  .divCarousel_button_text {
+    float: left;
+    padding-left: 8%;
+    font-size: 16px;
+  }
+  
+  .divCarousel_button_arrow {
+    font-size: 20px;
+    color: #d4d4d4;
+    float: right;
+    padding-right: 8%;
+  }
+  
+  .sixIcon {
+    text-align: center;
+    padding-top: 6.25%;
+    padding-bottom: 6.25%;
+  }
+  
+  .sixIcon_item {
+    padding: 1% 2% !important
+  }
+  
+  .sixIcon_item_row {
+    border: 1px solid #d4d4d4;
+    padding: 25px 35px 35px 35px;
+    align-items: center;
+  }
+  
+  .sixIcon_item_row_image {
+    float: left;
+    margin-right: 29px;
+    padding-top: 10px;
+  
+  }
+  
+  .sixIcon_item_row_div {
+    text-align: left;
+    float: left;
+    padding-top: 10px;
+  
+  }
+  
+  .sixIcon_item_row_span {
+    font-size: 38px;
+    color: #d4d4d4;
+    padding-top: 10px;
+  }
